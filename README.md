@@ -12,3 +12,6 @@ Automotive DoIP and Forensic Analysis for Automotive Systems
 Where is my Ransom? Hunting for Ransomware Gangs using radare2 and Yara
 [Official recording from r2con2020](https://www.youtube.com/watch?v=6VYYf5ut638)
 [Video of my presentation](https://www.youtube.com/watch?v=g39hut-csYE)
+
+## DFRWS EU 2021
+A generalized approach to automotive forensics
